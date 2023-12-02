@@ -7,6 +7,6 @@
 - 个人情侣网站
 - 记录美好生活
 访问链接：
-http://lofone.github.io
+http://lofon.github.io
 或者
 https://王凤琪.我爱你
